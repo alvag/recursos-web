@@ -1,0 +1,15 @@
+#Utilidades
+
+- [HTTP-Server](https://www.npmjs.com/package/http-server)
+- [Sweet Alert](http://t4t5.github.io/sweetalert/)
+- [Bootstrap Modals](http://getbootstrap.com/javascript/#modals)
+- [Date Picker](http://amsul.ca/pickadate.js/date/)
+- [Chosen](http://harvesthq.github.io/chosen/)
+- [Complexify](https://www.danpalmer.me/jquery-complexify/)
+- [Masonry](http://masonry.desandro.com/)
+- [Detect mobile browsers](http://detectmobilebrowsers.com/)
+- [Lazy Load](https://github.com/tuupola/jquery_lazyload)
+- [Stickyjs](http://stickyjs.com/)
+- [BigVideo](http://dfcb.github.io/BigVideo.js/)
+- [VideoBG](http://syddev.com/jquery.videoBG/)
+- [Tubular](http://www.seanmccambridge.com/tubular/)
