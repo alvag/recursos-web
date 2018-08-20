@@ -13,3 +13,4 @@
 - [BigVideo](http://dfcb.github.io/BigVideo.js/)
 - [VideoBG](http://syddev.com/jquery.videoBG/)
 - [Tubular](http://www.seanmccambridge.com/tubular/)
+- [Tippy.js](https://atomiks.github.io/tippyjs/)
